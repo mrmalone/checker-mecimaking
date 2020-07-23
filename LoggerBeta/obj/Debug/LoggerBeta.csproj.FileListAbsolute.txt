@@ -1,0 +1,10 @@
+K:\C# Dev\LoggerBeta\LoggerBeta\bin\Debug\LoggerBeta.exe.config
+K:\C# Dev\LoggerBeta\LoggerBeta\bin\Debug\LoggerBeta.exe
+K:\C# Dev\LoggerBeta\LoggerBeta\bin\Debug\LoggerBeta.pdb
+K:\C# Dev\LoggerBeta\LoggerBeta\obj\Debug\LoggerBeta.csprojAssemblyReference.cache
+K:\C# Dev\LoggerBeta\LoggerBeta\obj\Debug\LoggerBeta.Form1.resources
+K:\C# Dev\LoggerBeta\LoggerBeta\obj\Debug\LoggerBeta.Properties.Resources.resources
+K:\C# Dev\LoggerBeta\LoggerBeta\obj\Debug\LoggerBeta.csproj.GenerateResource.cache
+K:\C# Dev\LoggerBeta\LoggerBeta\obj\Debug\LoggerBeta.csproj.CoreCompileInputs.cache
+K:\C# Dev\LoggerBeta\LoggerBeta\obj\Debug\LoggerBeta.exe
+K:\C# Dev\LoggerBeta\LoggerBeta\obj\Debug\LoggerBeta.pdb
